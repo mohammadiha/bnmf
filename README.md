@@ -1,5 +1,5 @@
 # bnmf
-Bayesian NMF toolkit (BNMF-Tool) implements the Bayesian NMF for KL divergence.
+Bayesian NMF toolkit (BNMF-Tool) implements the Bayesian NMF for KL divergence in Matlab.
 
 Bayesian NMF toolkit (BNMF-Tool) implements the Bayesian NMF for KL divergence from:
 
